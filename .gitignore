@@ -1,0 +1,28 @@
+# files
+wp-content/*
+
+# sensitive
+error_log
+wp-config.php
+/_private/*
+.htaccess
+.htaccess.predirectoryindex
+
+# unrelated
+sifr-addons.js
+sifr.js
+sIFR-print.css
+sIFR-screen.css
+/refugelanddesign/*
+/refugelanddesign.com/*
+/wedding/*
+_vti_*
+_vti_*/*
+/exhibit/*
+/thinkup/*
+/cgi-bin/*
+/img/*
+justhost.swf
+
+# Mac
+.DS_Store
